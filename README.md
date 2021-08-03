@@ -1,2 +1,2 @@
-# hello-world
+# essentials
 basic repository
